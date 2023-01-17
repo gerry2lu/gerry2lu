@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Solidity and React
 - 💞️ I’m looking to collaborate on any interesting projects.
 - 🧠 I am fluent in Python, Java, C, HTML/CSS
-- 📫 How to reach me: Find me on Instagram (@gerry.lu), Find me on LinkedIn (@Gerry Lu), or Facebook (@Gerry Lu)
+- 📫 How to reach me: Find me on LinkedIn (@Gerry Lu), or Facebook (@Gerry Lu)
 Email: gerrylu2122@gmail.com
 
 
